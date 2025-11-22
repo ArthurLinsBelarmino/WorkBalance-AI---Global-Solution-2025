@@ -10,28 +10,28 @@ Este é o repositório do projeto "WorkBalance AI", desenvolvido para a Global S
 
 ### 2. Tecnologias Utilizadas
 
-* **HTML5** (Estruturação semântica e acessibilidade)
-* **CSS3** (Estilização, layout com Flexbox/Grid e responsividade)
-* **JavaScript** (Interatividade, menus dinâmicos, validação de formulários e manipulação do DOM)
+* **HTML5**
+* **CSS3**
+* **JavaScript**
 
 ### 3. Estrutura de Pastas
 
 O projeto está organizado da seguinte forma:
 
 /
-├── index.html (Página Home)
-├── sobre.html (Página Sobre o Projeto)
-├── integrantes.html (Página da Equipe)
-├── faq.html (Página de Perguntas Frequentes)
-├── contato.html (Página de Contato)
-├── solucao.html (Página da Proposta de Solução)
-├── demonstracao.html (Página de Demonstração/Dashboard)
+├── index.html
+├── sobre.html
+├── integrantes.html
+├── faq.html
+├── contato.html
+├── solucao.html
+├── demonstracao.html
 │
 ├── css/
-│   └── style.css (Folha de estilos principal)
+│   └── estilo.css
 │
 ├── js/
-│   └── script.js (JavaScript principal)
+│   └── script.js
 │
 └── assets/
     └── img/
