@@ -19,25 +19,26 @@ Este é o repositório do projeto "WorkBalance AI", desenvolvido para a Global S
 O projeto está organizado da seguinte forma:
 
 /
-├── index.html
-├── sobre.html
-├── integrantes.html
-├── faq.html
-├── contato.html
-├── solucao.html
-├── demonstracao.html
-│
-├── css/
-│   └── estilo.css
-│
-├── js/
-│   └── script.js
 │
 └── assets/
     └── img/
         ├── foto1.jpg
         ├── foto2.jpg
         └── foto3.jpg
+├── css/
+│   └── estilo.css
+│
+├── js/
+│   └── script.js
+│
+├── contato.html
+├── demonstracao.html
+├── faq.html
+├── index.html
+├── integrantes.html
+├── sobre.html
+├── solucao.html
+
 
 ### 4. Link do Repositório GitHub
 https://github.com/ArthurLinsBelarmino/WorkBalance-AI---Global-Solution-2025
